@@ -4,6 +4,7 @@
 // @version      1.5
 // @description  when you've collapsed a lot of comments on a reddit thread and don't want to uncollapse them all one by one
 // @author       Antonio Lima
+// @homepage     http://antoniolima.eu
 // @match        http://www.reddit.com/r/*/comments/*
 // @match        https://www.reddit.com/r/*/comments/*
 // @grant        none
