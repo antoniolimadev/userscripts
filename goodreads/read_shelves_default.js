@@ -8,7 +8,7 @@
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js
 // ==/UserScript==
 
-var uhref = $("a:contains('Compare Books')").attr('href');
+var uhref = $(".friendFollowModuleDropdownMenu a:contains('Compare books')").attr('href');
 uhref += "?utf8=✓&shelf=read";
 
-$("a:contains('Compare Books')").attr('href', uhref);
+$(".friendFollowModuleDropdownMenu a:contains('Compare books')").attr('href', uhref);
